@@ -51,7 +51,7 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 #### My contributions 👀
 
 - [TheXtremeLabs/TheLab]: Automated the integration and the packaging of the
-  Android application with [Gradle] and [GitHub Actions] (see
+  [Android] application with [Gradle] and [GitHub Actions] (see
   [my commits][thextremelabs/thelab#my-commits]).
 - [Kotlin/binary-compatibility-validator]: Suggested feature on adding a
   copyright notice in the generated file (see issue
