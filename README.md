@@ -50,14 +50,15 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 
 #### My contributions 👀
 
-- [TheXtremeLabs/TheLab]: Automated the integration and the packaging of the
-  Android application with [Gradle] and [GitHub Actions] (see
-  [my commits][thextremelabs/thelab#my-commits]).
+- [Bitwarden/clients]: Reported bugs on browser and desktop clients (see issues
+  [#6273][bitwarden/clients#6273] and [#6274][bitwarden/clients#6274]).
 - [Kotlin/binary-compatibility-validator]: Suggested feature on adding a
   copyright notice in the generated file (see issue
   [#152][kotlin/binary-compatibility-validator#152]).
-- [Bitwarden/clients]: Reported bugs on browser and desktop clients (see issues
-  [#6273][bitwarden/clients#6273] and [#6274][bitwarden/clients#6274]).
+- [TheXtremeLabs/TheLab]: Automated the integration and the packaging of the
+  [Android] application with [Gradle] and [GitHub Actions] (see
+  [my commits][thextremelabs/thelab#my-commits]). Also fixed the documentation
+  of the repository (see PR [#78][thextremelabs/thelab#78]).
 
 [bitwarden/clients]: https://github.com/bitwarden/clients
 [bitwarden/clients#6273]: https://github.com/bitwarden/clients/issues/6273
@@ -67,4 +68,5 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 [kotlin/binary-compatibility-validator]: https://github.com/Kotlin/binary-compatibility-validator
 [kotlin/binary-compatibility-validator#152]: https://github.com/Kotlin/binary-compatibility-validator/issues/152
 [thextremelabs/thelab]: https://github.com/TheXtremeLabs/TheLab
+[thextremelabs/thelab#78]: https://github.com/TheXtremeLabs/TheLab/pull/78
 [thextremelabs/thelab#my-commits]: https://github.com/TheXtremeLabs/TheLab/commits?author=LVMVRQUXL
