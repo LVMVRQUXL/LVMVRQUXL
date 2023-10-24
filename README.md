@@ -50,6 +50,9 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 
 #### My contributions 👀
 
+- [gradle/wrapper-validation-action]: Suggested feature on upgrading to Node.js
+  20 because of the Node.js 16 actions deprecation (see issue
+  [#160][gradle/wrapper-validation-action#160]).
 - [Bitwarden/clients]: Reported bugs on browser and desktop clients (see issues
   [#6273][bitwarden/clients#6273] and [#6274][bitwarden/clients#6274]).
 - [Kotlin/binary-compatibility-validator]: Suggested feature on adding a
@@ -63,8 +66,10 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 [bitwarden/clients]: https://github.com/bitwarden/clients
 [bitwarden/clients#6273]: https://github.com/bitwarden/clients/issues/6273
 [bitwarden/clients#6274]: https://github.com/bitwarden/clients/issues/6274
-[Github Actions]: https://github.com/features/actions
-[Gradle]: https://gradle.org
+[github actions]: https://github.com/features/actions
+[gradle]: https://gradle.org
+[gradle/wrapper-validation-action]: https://github.com/gradle/wrapper-validation-action
+[gradle/wrapper-validation-action#160]: https://github.com/gradle/wrapper-validation-action/issues/160
 [kotlin/binary-compatibility-validator]: https://github.com/Kotlin/binary-compatibility-validator
 [kotlin/binary-compatibility-validator#152]: https://github.com/Kotlin/binary-compatibility-validator/issues/152
 [thextremelabs/thelab]: https://github.com/TheXtremeLabs/TheLab
