@@ -50,6 +50,10 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 
 #### My contributions 👀
 
+- [MichaelStH/TheLabDesk]: Automated the integration of the desktop application
+  with [Gradle] and [GitHub Actions] (see PR [#2][michaelsth/thelabdesk#2]).
+  Also suggesting a DSL for creating the application's menu toolbar (see PR
+  [#1][michaelsth/thelabdesk#1]).
 - [gradle/wrapper-validation-action]: Suggested feature on upgrading to Node.js
   20 because of [the Node.js 16 actions deprecation] (see issue
   [#160][gradle/wrapper-validation-action#160]).
@@ -72,6 +76,9 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 [gradle/wrapper-validation-action#160]: https://github.com/gradle/wrapper-validation-action/issues/160
 [kotlin/binary-compatibility-validator]: https://github.com/Kotlin/binary-compatibility-validator
 [kotlin/binary-compatibility-validator#152]: https://github.com/Kotlin/binary-compatibility-validator/issues/152
+[michaelsth/thelabdesk]: https://github.com/MichaelStH/TheLabDesk
+[michaelsth/thelabdesk#1]: https://github.com/MichaelStH/TheLabDesk/pull/1
+[michaelsth/thelabdesk#2]: https://github.com/MichaelStH/TheLabDesk/pull/2
 [the Node.js 16 actions deprecation]: https://github.blog/changelog/2023-09-22-github-actions-transitioning-from-node-16-to-node-20
 [thextremelabs/thelab]: https://github.com/TheXtremeLabs/TheLab
 [thextremelabs/thelab#78]: https://github.com/TheXtremeLabs/TheLab/pull/78
