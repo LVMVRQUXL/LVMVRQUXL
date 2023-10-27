@@ -7,6 +7,7 @@ I’m a software engineer based in Paris.
 My favorite programming language is [Kotlin].
 I’m interested in a lot of programming topics like functional and intentional
 programming.
+
 In my opinion, the perfect system isn't one to which nothing can be added, but
 one to which nothing can be taken away.
 
