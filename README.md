@@ -34,7 +34,10 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 
 #### My contributions 👀
 
-- [Kotlin/api-guidelines]: Suggested change on the API guidelines for JVM library creators (see issue [#22][kotlin/api-guidelines#22]).
+- [Kotlin/api-guidelines]: Suggested API guidline for JVM library creators
+  about operator overloads (see issue [#22][kotlin/api-guidelines#22]). Also
+  fixed a typo in the documentation about using member and extension functions
+  appropriately (see PR [#23][kotlin/api-guidelines#23]).
 - [MichaelStH/TheLabDesk]: Automated the integration of the desktop application
   with [Gradle] and [GitHub Actions] (see PR [#2][michaelsth/thelabdesk#2]).
   Also suggesting a DSL for creating the application's menu toolbar (see PR
@@ -67,6 +70,7 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 [kotlin-native]: https://kotlinlang.org/docs/native-overview.html
 [kotlin/api-guidelines]: https://github.com/Kotlin/api-guidelines
 [kotlin/api-guidelines#22]: https://github.com/Kotlin/api-guidelines/issues/22
+[kotlin/api-guidelines#23]: https://github.com/Kotlin/api-guidelines/issues/23
 [kotlin/binary-compatibility-validator]: https://github.com/Kotlin/binary-compatibility-validator
 [kotlin/binary-compatibility-validator#152]: https://github.com/Kotlin/binary-compatibility-validator/issues/152
 [kotlin/jvm]: https://kotlinlang.org/docs/jvm-get-started.html
