@@ -32,6 +32,13 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 - [Color Guessing Game][lvmvrquxl/cgg]: Kid friendly [Android] application
   built with [Kotlin] for learning colors.
 
+#### My talks 🎤
+
+- 🇫🇷 [Advices for developing with Kotlin Multiplatform][talk-kmp-advices]
+  at [Kotlin Paris Meetup][kotlin-paris-meetup]'s event about the stability of
+  [Kotlin Multiplatform][kotlin-multiplatform], sponsored by [Jetbrains] and
+  [Back Market][back-market].
+
 #### My contributions 👀
 
 - [Kotlin/api-guidelines]: Suggested API guidline for JVM library creators
@@ -58,6 +65,7 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 
 [android]: https://www.android.com
 [angular]: https://angular.io
+[back-market]: https://www.backmarket.fr
 [bitwarden/clients]: https://github.com/bitwarden/clients
 [bitwarden/clients#6273]: https://github.com/bitwarden/clients/issues/6273
 [bitwarden/clients#6274]: https://github.com/bitwarden/clients/issues/6274
@@ -66,8 +74,11 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 [gradle/wrapper-validation-action]: https://github.com/gradle/wrapper-validation-action
 [gradle/wrapper-validation-action#160]: https://github.com/gradle/wrapper-validation-action/issues/160
 [itstlion/web]: https://github.com/itstlion/web
+[jetbrains]: https://www.jetbrains.com
 [kotlin]: https://kotlinlang.org
+[kotlin-multiplatform]: https://www.jetbrains.com/kotlin-multiplatform
 [kotlin-native]: https://kotlinlang.org/docs/native-overview.html
+[kotlin-paris-meetup]: https://www.meetup.com/fr-FR/kotlin-paris-meetup
 [kotlin/api-guidelines]: https://github.com/Kotlin/api-guidelines
 [kotlin/api-guidelines#22]: https://github.com/Kotlin/api-guidelines/issues/22
 [kotlin/api-guidelines#23]: https://github.com/Kotlin/api-guidelines/issues/23
@@ -87,6 +98,7 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 [michaelsth/thelabdesk#2]: https://github.com/MichaelStH/TheLabDesk/pull/2
 [node.js-16-actions-deprecation]: https://github.blog/changelog/2023-09-22-github-actions-transitioning-from-node-16-to-node-20
 [si-ekang/api]: https://github.com/Si-Ekang/api
+[talk-kmp-advices]: https://youtu.be/S2VnS402_Y4
 [thextremelabs/thelab]: https://github.com/TheXtremeLabs/TheLab
 [thextremelabs/thelab#78]: https://github.com/TheXtremeLabs/TheLab/pull/78
 [thextremelabs/thelab#my-commits]: https://github.com/TheXtremeLabs/TheLab/commits?author=LVMVRQUXL
