@@ -41,6 +41,9 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 
 #### My contributions 👀
 
+- [actions/setup-java](https://github.com/actions/setup-java): Reported a bug
+  about permission denied errors at job cleanup step on Windows (see issue
+  [#583](https://github.com/actions/setup-java/issues/583)).
 - [Kotlin/api-guidelines]: Suggested API guidline for JVM library creators
   about operator overloads (see issue [#22][kotlin/api-guidelines#22]). Also
   fixed a typo in the documentation about using member and extension functions
