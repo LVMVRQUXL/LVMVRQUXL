@@ -41,6 +41,8 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 
 #### My contributions 👀
 
+- [mikepenz/gradle-dependency-submission]: Suggested feature on upgrading to
+  Node.js 20 (see issue [#467][mikepenz/gradle-dependency-submission#467]).
 - [actions/setup-java](https://github.com/actions/setup-java): Reported a bug
   about permission denied errors at job cleanup step on Windows (see issue
   [#583](https://github.com/actions/setup-java/issues/583)).
@@ -99,6 +101,8 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 [michaelsth/thelabdesk]: https://github.com/MichaelStH/TheLabDesk
 [michaelsth/thelabdesk#1]: https://github.com/MichaelStH/TheLabDesk/pull/1
 [michaelsth/thelabdesk#2]: https://github.com/MichaelStH/TheLabDesk/pull/2
+[mikepenz/gradle-dependency-submission]: https://github.com/mikepenz/gradle-dependency-submission
+[mikepenz/gradle-dependency-submission#467]: https://github.com/mikepenz/gradle-dependency-submission/issues/467
 [node.js-16-actions-deprecation]: https://github.blog/changelog/2023-09-22-github-actions-transitioning-from-node-16-to-node-20
 [si-ekang/api]: https://github.com/Si-Ekang/api
 [talk-kmp-advices]: https://youtu.be/S2VnS402_Y4
