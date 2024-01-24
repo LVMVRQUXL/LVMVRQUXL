@@ -55,9 +55,7 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
   Also suggesting a DSL for creating the application's menu toolbar (see PR
   [#1][michaelsth/thelabdesk#1]).
 - [gradle/wrapper-validation-action]: Suggested feature on upgrading to Node.js
-  20 because of
-  [the Node.js 16 actions deprecation][node.js-16-actions-deprecation] (see
-  issue [#160][gradle/wrapper-validation-action#160]).
+  20 (see issue [#160][gradle/wrapper-validation-action#160]).
 - [Bitwarden/clients]: Reported bugs on browser and desktop clients (see issues
   [#6273][bitwarden/clients#6273] and [#6274][bitwarden/clients#6274]).
 - [Kotlin/binary-compatibility-validator]: Suggested feature on adding a
@@ -103,7 +101,6 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 [michaelsth/thelabdesk#2]: https://github.com/MichaelStH/TheLabDesk/pull/2
 [mikepenz/gradle-dependency-submission]: https://github.com/mikepenz/gradle-dependency-submission
 [mikepenz/gradle-dependency-submission#467]: https://github.com/mikepenz/gradle-dependency-submission/issues/467
-[node.js-16-actions-deprecation]: https://github.blog/changelog/2023-09-22-github-actions-transitioning-from-node-16-to-node-20
 [si-ekang/api]: https://github.com/Si-Ekang/api
 [talk-kmp-advices]: https://youtu.be/S2VnS402_Y4
 [thextremelabs/thelab]: https://github.com/TheXtremeLabs/TheLab
