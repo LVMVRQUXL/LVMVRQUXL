@@ -1,4 +1,4 @@
-<!-- Copyright 2023 Loïc Lamarque. All rights reserved. -->
+<!-- Copyright 2023-2024 Loïc Lamarque. All rights reserved. -->
 
 ### Hello world 👋
 
