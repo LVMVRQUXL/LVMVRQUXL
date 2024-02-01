@@ -21,7 +21,8 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 - [Kotools CSV][kotools/csv]: Library for managing CSV files with an elegant
   Domain Specific Language (DSL) on the [Kotlin/JVM] platform.
 - [Kotools Assert][kotools/assert]: Library providing lightweight assertions
-  for the [Kotlin/JVM], the [Kotlin/JS] and the [Kotlin Native] platforms.
+  for the [Kotlin/JVM], the [Kotlin/JS] and the
+  [Kotlin Native][kotlin-native] platforms.
 - [Si-Ekang API][si-ekang/api]: Server built with [Ktor] for an [Android]
   application providing learning materials of the Fang language.
 - [It's T.Lion][itstlion/web]: My musician website built with [Angular].
