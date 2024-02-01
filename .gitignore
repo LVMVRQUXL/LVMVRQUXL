@@ -1,0 +1,41 @@
+#################################### macOS #####################################
+
+# Directories
+.apdisk/
+.AppleD*/
+Network Trash Folder/
+Temporary Items/
+
+# File extensions
+._*
+
+# Specific files
+.AppleDouble
+.com.apple.timemachine.donotpresent
+.DocumentRevisions-V100
+.DS_Store
+.fseventsd
+.LSOverride
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+################################### Windows ####################################
+
+# Directories
+$RECYCLE.BIN/
+
+# File extensions
+*.cab
+*.exe
+*.ini
+*.lnk
+*.msi*
+*.msm
+*.msp
+*.stackdump
+
+# Specific files
+ehthumbs*.db
+Thumbs.db*
