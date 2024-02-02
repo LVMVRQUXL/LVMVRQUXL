@@ -40,8 +40,11 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
   [Kotlin Multiplatform][kotlin-multiplatform], sponsored by [Jetbrains] and
   [Back Market][back-market].
 
-#### My contributions 👀
+#### My contributions 🤝
 
+- [Kotlin/kotlinx.serialization]: Align Kotlin Native targets with the
+  [Kotlin Native target support][kotlin-native-target-support] documentation
+  (see PR [#2560][kotlin/kotlinx.serialization#2560]).
 - [mikepenz/gradle-dependency-submission]: Suggested feature on upgrading to
   Node.js 20 (see issue [#467][mikepenz/gradle-dependency-submission#467]).
 - [actions/setup-java](https://github.com/actions/setup-java): Reported a bug
@@ -90,6 +93,9 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 [kotlin/binary-compatibility-validator#152]: https://github.com/Kotlin/binary-compatibility-validator/issues/152
 [kotlin/jvm]: https://kotlinlang.org/docs/jvm-get-started.html
 [kotlin/js]: https://kotlinlang.org/docs/js-overview.html
+[kotlin/kotlinx.serialization]: https://github.com/Kotlin/kotlinx.serialization
+[kotlin/kotlinx.serialization#2560]: https://github.com/Kotlin/kotlinx.serialization/pull/2560
+[kotlin-native-target-support]: https://kotlinlang.org/docs/native-target-support.html
 [kotools/assert]: https://github.com/kotools/assert
 [kotools/csv]: https://github.com/kotools/csv
 [kotools/types]: https://github.com/kotools/types
