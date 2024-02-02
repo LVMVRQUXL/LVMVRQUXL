@@ -47,9 +47,8 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
   (see PR [#2560][kotlin/kotlinx.serialization#2560]).
 - [mikepenz/gradle-dependency-submission]: Suggested feature on upgrading to
   Node.js 20 (see issue [#467][mikepenz/gradle-dependency-submission#467]).
-- [actions/setup-java](https://github.com/actions/setup-java): Reported a bug
-  about permission denied errors at job cleanup step on Windows (see issue
-  [#583](https://github.com/actions/setup-java/issues/583)).
+- [actions/setup-java]: Reported a bug about permission denied errors at job
+  cleanup step on Windows (see issue [#583][actions/setup-java#583]).
 - [Kotlin/api-guidelines]: Suggested API guidline for JVM library creators
   about operator overloads (see issue [#22][kotlin/api-guidelines#22]). Also
   fixed a typo in the documentation about using member and extension functions
@@ -70,6 +69,8 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
   [my commits][thextremelabs/thelab#my-commits]). Also fixed the documentation
   of the repository (see PR [#78][thextremelabs/thelab#78]).
 
+[actions/setup-java]: https://github.com/actions/setup-java
+[actions/setup-java#583]: https://github.com/actions/setup-java/issues/583
 [android]: https://www.android.com
 [angular]: https://angular.io
 [back-market]: https://www.backmarket.fr
