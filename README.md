@@ -1,6 +1,6 @@
 <!-- Copyright 2023-2024 Loïc Lamarque. All rights reserved. -->
 
-### Hello world 👋
+### 👋 Hello world
 
 I’m a software engineer based in Paris.
 
@@ -13,7 +13,9 @@ one to which nothing can be taken away.
 
 Feel free to reach me by mail: [loiclamarque777@gmail.com].
 
-#### My projects 👨‍💻
+<details>
+<summary><b>👨‍💻 My projects</b></summary>
+<br>
 
 - [Kotools Types][kotools/types]: Library providing explicit types like
   `NotBlankString` or `NonZeroInt` for the [Kotlin/JVM], the [Kotlin/JS] and
@@ -32,15 +34,23 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
   productivity tools.
 - [Color Guessing Game][lvmvrquxl/cgg]: Kid friendly [Android] application
   built with [Kotlin] for learning colors.
+</details>
 
-#### My talks 🎤
+<br>
+<details>
+<summary><b>🎤 My talks</b></summary>
+<br>
 
 - 🇫🇷 [Advices for developing with Kotlin Multiplatform][talk-kmp-advices]
   at [Kotlin Paris Meetup][kotlin-paris-meetup]'s event about the stability of
   [Kotlin Multiplatform][kotlin-multiplatform], sponsored by [Jetbrains] and
   [Back Market][back-market].
+</details>
 
-#### My contributions 🤝
+<br>
+<details>
+<summary><b>🤝 My contributions</b></summary>
+<br>
 
 - [Kotlin/kotlinx.serialization]: Align Kotlin Native targets with the
   [Kotlin Native target support][kotlin-native-target-support] documentation
@@ -68,6 +78,7 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
   [Android] application with [Gradle] and [GitHub Actions] (see
   [my commits][thextremelabs/thelab#my-commits]). Also fixed the documentation
   of the repository (see PR [#78][thextremelabs/thelab#78]).
+</details>
 
 [actions/setup-java]: https://github.com/actions/setup-java
 [actions/setup-java#583]: https://github.com/actions/setup-java/issues/583
