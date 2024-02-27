@@ -13,6 +13,7 @@ one to which nothing can be taken away.
 
 Feel free to reach me by mail: [loiclamarque777@gmail.com].
 
+<br>
 <details>
 <summary><b>👨‍💻 My projects</b></summary>
 <br>
