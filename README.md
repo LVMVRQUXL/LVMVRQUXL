@@ -53,6 +53,8 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 <summary><b>🤝 My contributions</b></summary>
 <br>
 
+- [gradle/actions]: Create an issue for fixing long setup on Windows
+  (see issue [#92][gradle/actions#92]).
 - [Kotlin/kotlinx.serialization]: Align Kotlin Native targets with the
   [Kotlin Native target support][kotlin-native-target-support] documentation
   (see PR [#2560][kotlin/kotlinx.serialization#2560]).
@@ -91,6 +93,8 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 [bitwarden/clients#6274]: https://github.com/bitwarden/clients/issues/6274
 [github actions]: https://github.com/features/actions
 [gradle]: https://gradle.org
+[gradle/actions]: https://github.com/gradle/actions
+[gradle/actions#92]: https://github.com/gradle/actions/issues/92
 [gradle/wrapper-validation-action]: https://github.com/gradle/wrapper-validation-action
 [gradle/wrapper-validation-action#160]: https://github.com/gradle/wrapper-validation-action/issues/160
 [itstlion/web]: https://github.com/itstlion/web
