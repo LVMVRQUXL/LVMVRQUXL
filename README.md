@@ -62,7 +62,7 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
   Node.js 20 (see issue [#467][mikepenz/gradle-dependency-submission#467]).
 - [actions/setup-java]: Reported a bug about permission denied errors at job
   cleanup step on Windows (see issue [#583][actions/setup-java#583]).
-- [Kotlin/api-guidelines]: Suggested API guidline for JVM library creators
+- [Kotlin/api-guidelines]: Suggested API guideline for JVM library creators
   about operator overloads (see issue [#22][kotlin/api-guidelines#22]). Also
   fixed a typo in the documentation about using member and extension functions
   appropriately (see PR [#23][kotlin/api-guidelines#23]).
