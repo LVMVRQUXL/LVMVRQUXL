@@ -42,10 +42,10 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 <summary><b>🎤 My talks</b></summary>
 <br>
 
-- 🇫🇷 [Advices for developing with Kotlin Multiplatform][talk-kmp-advices]
-  at [Kotlin Paris Meetup][kotlin-paris-meetup]'s event about the stability of
-  [Kotlin Multiplatform][kotlin-multiplatform], sponsored by [Jetbrains] and
-  [Back Market][back-market].
+🇫🇷 [Advices for developing with Kotlin Multiplatform][talk-kmp-advices] at
+[Kotlin Paris Meetup][kotlin-paris-meetup]'s event about the stability of
+[Kotlin Multiplatform][kotlin-multiplatform], sponsored by [Jetbrains] and
+[Back Market][back-market].
 </details>
 
 <br>
