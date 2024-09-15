@@ -18,6 +18,9 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 <summary><b>👨‍💻 My projects</b></summary>
 <br>
 
+- [Kotools Samples][kotools/samples]: [Gradle] plugin that inlines read-only
+  [Kotlin] and [Java] code samples into [Dokka][kotlin/dokka] documentation,
+  ensuring they are always correct and visible in IDEs.
 - [Kotools Types][kotools/types]: Library providing explicit types like
   `NotBlankString` or `NonZeroInt` for the [Kotlin/JVM], the [Kotlin/JS] and
   the [Kotlin Native][kotlin-native] platforms.
@@ -98,6 +101,7 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 [gradle/wrapper-validation-action]: https://github.com/gradle/wrapper-validation-action
 [gradle/wrapper-validation-action#160]: https://github.com/gradle/wrapper-validation-action/issues/160
 [itstlion/web]: https://github.com/itstlion/web
+[java]: https://www.java.com
 [jetbrains]: https://www.jetbrains.com
 [kotlin]: https://kotlinlang.org
 [kotlin-multiplatform]: https://www.jetbrains.com/kotlin-multiplatform
@@ -108,6 +112,7 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 [kotlin/api-guidelines#23]: https://github.com/Kotlin/api-guidelines/issues/23
 [kotlin/binary-compatibility-validator]: https://github.com/Kotlin/binary-compatibility-validator
 [kotlin/binary-compatibility-validator#152]: https://github.com/Kotlin/binary-compatibility-validator/issues/152
+[kotlin/dokka]: https://github.com/Kotlin/dokka
 [kotlin/jvm]: https://kotlinlang.org/docs/jvm-get-started.html
 [kotlin/js]: https://kotlinlang.org/docs/js-overview.html
 [kotlin/kotlinx.serialization]: https://github.com/Kotlin/kotlinx.serialization
@@ -116,6 +121,7 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 [kotools/assert]: https://github.com/kotools/assert
 [kotools/csv]: https://github.com/kotools/csv
 [kotools/types]: https://github.com/kotools/types
+[kotools/samples]: https://github.com/kotools/samples
 [ktor]: https://ktor.io
 [loiclamarque777@gmail.com]: mailto:loiclamarque777@gmail.com
 [lvmvrquxl/alliodesk]: https://github.com/LVMVRQUXL/Alliodesk
