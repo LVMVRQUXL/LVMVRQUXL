@@ -42,13 +42,15 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 
 <br>
 <details>
-<summary><b>🎤 My talks</b></summary>
+<summary><b>🎤 My talks and appearances</b></summary>
 <br>
 
-🇫🇷 [Advices for developing with Kotlin Multiplatform][talk-kmp-advices] at
-[Kotlin Paris Meetup][kotlin-paris-meetup]'s event about the stability of
-[Kotlin Multiplatform][kotlin-multiplatform], sponsored by [Jetbrains] and
-[Back Market][back-market].
+- 🇫🇷 [Advices for developing with Kotlin Multiplatform][talk-kmp-advices] at
+  [Kotlin Paris Meetup][kotlin-paris-meetup]'s event about the stability of
+  [Kotlin Multiplatform][kotlin-multiplatform], sponsored by [Jetbrains] and
+  [Back Market][back-market].
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [How much do Kotlin developers make [kotlin-developers-revenue], a
+  video on the [Kotlin][kotlin-on-youtube] YouTube channel.
 </details>
 
 <br>
@@ -104,8 +106,10 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 [java]: https://www.java.com
 [jetbrains]: https://www.jetbrains.com
 [kotlin]: https://kotlinlang.org
+[kotlin-developers-revenue]: https://youtu.be/o9Lk_o2dubM
 [kotlin-multiplatform]: https://www.jetbrains.com/kotlin-multiplatform
 [kotlin-native]: https://kotlinlang.org/docs/native-overview.html
+[kotlin-on-youtube]: https://www.youtube.com/@Kotlin
 [kotlin-paris-meetup]: https://www.meetup.com/fr-FR/kotlin-paris-meetup
 [kotlin/api-guidelines]: https://github.com/Kotlin/api-guidelines
 [kotlin/api-guidelines#22]: https://github.com/Kotlin/api-guidelines/issues/22
