@@ -49,7 +49,7 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
   [Kotlin Paris Meetup][kotlin-paris-meetup]'s event about the stability of
   [Kotlin Multiplatform][kotlin-multiplatform], sponsored by [Jetbrains] and
   [Back Market][back-market].
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [How much do Kotlin developers make [kotlin-developers-revenue], a
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [How much do Kotlin developers make][kotlin-developers-revenue], a
   video on the [Kotlin][kotlin-on-youtube] YouTube channel.
 </details>
 
