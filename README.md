@@ -58,6 +58,9 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 <summary><b>🤝 My contributions</b></summary>
 <br>
 
+- [Kotlin IntelliJ IDEA plugin][kotlin-intellij-idea-plugin]: Create a bug issue
+  about invalid value class's error diagnostic without `JvmInline` annotation
+  (see [KTIJ-39924]).
 - [gradle/actions]: Create an issue for fixing long setup on Windows
   (see issue [#92][gradle/actions#92]).
 - [Kotlin/kotlinx.serialization]: Align Kotlin Native targets with the
@@ -88,6 +91,8 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
   of the repository (see PR [#78][thextremelabs/thelab#78]).
 </details>
 
+<!----------------------------------- Links ----------------------------------->
+
 [actions/setup-java]: https://github.com/actions/setup-java
 [actions/setup-java#583]: https://github.com/actions/setup-java/issues/583
 [android]: https://www.android.com
@@ -107,8 +112,10 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 [jetbrains]: https://www.jetbrains.com
 [kotlin]: https://kotlinlang.org
 [kotlin-developers-revenue]: https://youtu.be/o9Lk_o2dubM
+[kotlin-intellij-idea-plugin]: https://plugins.jetbrains.com/plugin/6954-kotlin
 [kotlin-multiplatform]: https://www.jetbrains.com/kotlin-multiplatform
 [kotlin-native]: https://kotlinlang.org/docs/native-overview.html
+[kotlin-native-target-support]: https://kotlinlang.org/docs/native-target-support.html
 [kotlin-on-youtube]: https://www.youtube.com/@Kotlin
 [kotlin-paris-meetup]: https://www.meetup.com/fr-FR/kotlin-paris-meetup
 [kotlin/api-guidelines]: https://github.com/Kotlin/api-guidelines
@@ -121,11 +128,11 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 [kotlin/js]: https://kotlinlang.org/docs/js-overview.html
 [kotlin/kotlinx.serialization]: https://github.com/Kotlin/kotlinx.serialization
 [kotlin/kotlinx.serialization#2560]: https://github.com/Kotlin/kotlinx.serialization/pull/2560
-[kotlin-native-target-support]: https://kotlinlang.org/docs/native-target-support.html
 [kotools/assert]: https://github.com/kotools/assert
 [kotools/csv]: https://github.com/kotools/csv
 [kotools/types]: https://github.com/kotools/types
 [kotools/samples]: https://github.com/kotools/samples
+[KTIJ-39924]: https://youtrack.jetbrains.com/issue/KTIJ-39924
 [ktor]: https://ktor.io
 [loiclamarque777@gmail.com]: mailto:loiclamarque777@gmail.com
 [lvmvrquxl/alliodesk]: https://github.com/LVMVRQUXL/Alliodesk
