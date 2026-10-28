@@ -58,6 +58,8 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 <summary><b>🤝 My contributions</b></summary>
 <br>
 
+- [YGO Omega][ygo-omega]: Requested native Apple Silicon (ARM64) support for
+  the macOS version of the game (see [duelists-unite/omega-releases#35]).
 - [Kotlin IntelliJ IDEA plugin][kotlin-intellij-idea-plugin]: Create a bug issue
   about invalid value class's error diagnostic without `JvmInline` annotation
   (see [KTIJ-39924]).
@@ -101,6 +103,7 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 [bitwarden/clients]: https://github.com/bitwarden/clients
 [bitwarden/clients#6273]: https://github.com/bitwarden/clients/issues/6273
 [bitwarden/clients#6274]: https://github.com/bitwarden/clients/issues/6274
+[duelists-unite/omega-releases#35]: https://github.com/duelists-unite/omega-releases/issues/35
 [github actions]: https://github.com/features/actions
 [gradle]: https://gradle.org
 [gradle/actions]: https://github.com/gradle/actions
@@ -148,3 +151,4 @@ Feel free to reach me by mail: [loiclamarque777@gmail.com].
 [thextremelabs/thelab#78]: https://github.com/TheXtremeLabs/TheLab/pull/78
 [thextremelabs/thelab#my-commits]: https://github.com/TheXtremeLabs/TheLab/commits?author=LVMVRQUXL
 [thextremelabs/thekolab]: https://github.com/TheXtremeLabs/TheKoLab
+[ygo-omega]: https://omega.duelistsunite.org
